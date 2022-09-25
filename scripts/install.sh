@@ -7,3 +7,4 @@ php artisan config:cache
 php artisan view:clear
 php artisan migrate
 php artisan superheros:insert
+php artisan serve
