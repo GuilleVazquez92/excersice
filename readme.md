@@ -12,6 +12,7 @@
 
 ### Documentation
 All documentation is available on the <a href="https://github.com/GuilleVazquez92/superheroChallenge/wiki">Wiki</a> Pages, we encourage you to read it.
+<p><a href="https://github.com/GuilleVazquez92/superheroChallenge/wiki">ENTER HERE FOR THE COMPLETE DOCUMENTATION ON WIKI</a> </p>
 
 ### Installation guide
 
