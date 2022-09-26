@@ -17,7 +17,8 @@ class SuperHerosController extends Controller
         {
             
             
-            $superHeros = SuperHero::name($request->get('name'))
+            $superHeros = SuperHero::id($request->get('id'))
+                                ->name($request->get('name'))
                                 ->fullName($request->get('fullName'))
                                 ->strength($request->get('strength'))
                                 ->speed($request->get('speed'))

@@ -29,6 +29,14 @@ class SuperHero extends Model
         'publisher',
     ];
 
+      public function scopeId($query, $id)
+    {   
+        if (!empty($id) ) {
+            return $query->where('id', '=', $id);
+        }
+        
+    }
+
     public function scopeName($query, $name)
     {   
         if (!empty($name) ) {

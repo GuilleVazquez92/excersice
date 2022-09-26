@@ -47,7 +47,7 @@ class SuperHerosInsert extends Command
         while (($data = fgetcsv($f)) !== false) 
         {
 
-        $chunkData = array_chunk($data, 1000);
+        $chunkData = array_chunk($data, 500);
         if (isset($chunkData) && !empty($chunkData) &&  (count($data)==16)) {
         App\SuperHero::create([
                 'id'            => $data[0],

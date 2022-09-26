@@ -42,3 +42,18 @@ Apache/2.4.47 (Win64) OpenSSL/1.1.1k PHP/7.3.28
 Database client version: libmysql - mysqlnd 5.0.12-dev - 20150407 - $Id: 7cc7cc96e675f6d72e5cf0f267f48e167c2abb23 $
 PHP extension: mysqli Documentation curl Documentation mbstring Documentation
 PHP version: 7.3.28
+
+#### Details
+
+<table>
+<tbody><tr><th>My solution Times</th><th>Example Times</th></tr>
+<tr>
+    <td><a target="_blank" rel="noopener noreferrer" href="/fnoceda/backboneChallenge/blob/master/img/1.png"><img src="/GuilleVazquez92/superheroChallenge/tree/main/exercise/public/time.png" width="400" style="max-width: 100%;"></a></td>
+    <td><a target="_blank" rel="noopener noreferrer" href="/fnoceda/backboneChallenge/blob/master/img/2.png"><img src="/fnoceda/backboneChallenge/raw/master/img/2.png" width="400" style="max-width: 100%;"></a></td>
+</tr>
+<tr><th>Local Times</th><th>My Reponse example</th></tr>
+<tr>
+    <td><a target="_blank" rel="noopener noreferrer" href="/fnoceda/backboneChallenge/blob/master/img/local.png"><img src="/fnoceda/backboneChallenge/raw/master/img/local.png" width="400" style="max-width: 100%;"></a></td>
+    <td><a target="_blank" rel="noopener noreferrer" href="/fnoceda/backboneChallenge/blob/master/img/response.png"><img src="/fnoceda/backboneChallenge/raw/master/img/response.png" width="400" style="max-width: 100%;"></a></td>
+</tr>
+</tbody></table>
