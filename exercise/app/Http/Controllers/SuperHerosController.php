@@ -30,14 +30,14 @@ class SuperHerosController extends Controller
                                 ->eyeColor($request->get('eyeColor'))
                                 ->hairColor($request->get('hairColor'))
                                 ->publisher($request->get('publisher'))
-                                ->get();
+                                ->order($request->get('order'))
+                                ->paginate($request->get('paginate'));
             return response($superHeros);
-           // dd($superHeros);
 
         }else
         {
        
-            $superHeros     =  SuperHero::all();
+            $superHeros     =  SuperHero::paginate(15);
             
              if(count($superHeros)<= 0){
                 return response()->json(['error' => 'The SuperHeroes table is empty'], 404);

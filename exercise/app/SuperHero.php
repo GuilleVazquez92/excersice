@@ -137,4 +137,12 @@ class SuperHero extends Model
         
     }
 
+     public function scopeOrder($query, $order)
+    {   
+        if (!empty($order) ) {
+            return $query->orderBy($order, 'ASC');
+        }
+        
+    }
+
 }
