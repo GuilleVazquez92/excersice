@@ -48,12 +48,9 @@ PHP version: 7.3.28
 <table>
 <tbody><tr><th>My solution Times</th><th>Example Times</th></tr>
 <tr>
-    <td><img src="img/time.png" width="400" style="max-width: 100%;"></td>
+    <td><img src="img/paginate.png" width="400" style="max-width: 100%;"></td>
     <td><a target="_blank" rel="noopener noreferrer" href="/fnoceda/backboneChallenge/blob/master/img/2.png"><img src="/fnoceda/backboneChallenge/raw/master/img/2.png" width="400" style="max-width: 100%;"></a></td>
 </tr>
-<tr><th>Local Times</th><th>My Reponse example</th></tr>
-<tr>
-    <td><a target="_blank" rel="noopener noreferrer" href="/fnoceda/backboneChallenge/blob/master/img/local.png"><img src="/fnoceda/backboneChallenge/raw/master/img/local.png" width="400" style="max-width: 100%;"></a></td>
-    <td><a target="_blank" rel="noopener noreferrer" href="/fnoceda/backboneChallenge/blob/master/img/response.png"><img src="/fnoceda/backboneChallenge/raw/master/img/response.png" width="400" style="max-width: 100%;"></a></td>
+
 </tr>
 </tbody></table>
