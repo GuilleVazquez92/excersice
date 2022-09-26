@@ -1,6 +1,6 @@
 # SuperHeroes Challenge
 This repository was created in order to present the challenge of an API with information regarding SuperHeroes.
-In addition, the Wiki section was added in order to obtain more information regarding the system.
+In addition, the <a href="https://github.com/GuilleVazquez92/superheroChallenge/wiki">Wiki</a> section was added in order to obtain more information regarding the system.
 
 ### Requirements
 1. PHP
